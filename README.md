@@ -6,7 +6,7 @@ I Am Sarkis Moeradjan and I am studying CMD at the HvA.
 
 # How to install?
 
-Just download the file .bash_profile and put the file into the root directory. Than open youre terminal and type: source ~/.bash_profile.
+Just download the file .bash_profile and put the file into the root directory. Than open you're terminal and type: source ~/.bash_profile.
 
 That should work:)
 
